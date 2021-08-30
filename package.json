@@ -1,7 +1,6 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -20,5 +19,14 @@
     "bcrypt": "^5.0.1",
     "express": "^4.17.1",
     "graphql": "^15.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShiromaJh/Book-Search-Enginev2.0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShiromaJh/Book-Search-Enginev2.0/issues"
+  },
+  "homepage": "https://github.com/ShiromaJh/Book-Search-Enginev2.0#readme",
+  "description": ""
 }
